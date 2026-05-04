@@ -37,8 +37,14 @@ This project analyzes customer churn in a banking dataset and builds a machine l
 - Activity Status
 
 ---
+## Dashboard Preview
+![Dashboard](dashboard.PNG)
+
+## Prediction Demo
+![Prediction](prediction.PNG)
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
