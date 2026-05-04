@@ -40,8 +40,12 @@ This project analyzes customer churn in a banking dataset and builds a machine l
 ## Dashboard Preview
 ![Dashboard](dashboard.PNG)
 
+## 👥 Churn by Gender Analysis
+![Churn by gender](churn_by_gender.PNG)
+
 ## Prediction Demo
 ![Prediction](prediction.PNG)
+
 
 ## How to Run
 ```bash
