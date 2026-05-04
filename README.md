@@ -1,11 +1,11 @@
 # Customer Churn Analysis & Prediction
 
-## 📌 Overview
+## Overview
 This project analyzes customer churn in a banking dataset and builds a machine learning model to predict whether a customer will leave.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL)
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Machine Learning (Scikit-learn)
@@ -13,7 +13,7 @@ This project analyzes customer churn in a banking dataset and builds a machine l
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Customers in Germany have the highest churn rate (~32%)
 - Female customers churn more than male customers
 - Inactive members are more likely to leave
@@ -21,14 +21,14 @@ This project analyzes customer churn in a banking dataset and builds a machine l
 
 ---
 
-## 🤖 Model Performance
+## Model Performance
 - Model: Logistic Regression
 - Accuracy: ~70%
 - Improved recall for churn prediction
 
 ---
 
-## 📈 Features Used
+## Features Used
 - Credit Score
 - Age
 - Balance
@@ -38,7 +38,7 @@ This project analyzes customer churn in a banking dataset and builds a machine l
 
 ---
 
-## 🚀 How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
